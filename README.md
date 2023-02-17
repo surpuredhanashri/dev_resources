@@ -14,13 +14,18 @@ Initially created by [Dhanashri](https://github.com/surpuredhanashri)
 
 ## Table of Contents
 
-- [Hosting](#hosting)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
-- [Remote Jobs](#remote-jobs)
-- [Angular UI libraries](#angular-ui-libraries)
-- [Others](#others)
+- [Incredible Resources ](#incredible-resources-)
+  - [Table of Contents](#table-of-contents)
+  - [Free Hosting:](#free-hosting)
+  - [Learning Platforms:](#learning-platforms)
+  - [Coding Challenge Platforms:](#coding-challenge-platforms)
+  - [Freelancing platforms:](#freelancing-platforms)
+  - [Remote Jobs:](#remote-jobs)
+  - [Podcasts:](#podcasts)
+  - [Code Editors:](#code-editors)
+  - [Docs:](#docs)
+  - [Angular UI libraries:](#angular-ui-libraries)
+  - [Others:](#others)
 
 ## Free Hosting:
 
@@ -98,11 +103,9 @@ Initially created by [Dhanashri](https://github.com/surpuredhanashri)
 | https://www.envato.com     |
 | https://guru.com           |
 | https://fiverr.com         |
-| https://hireable.com       |
 | https://6nomads.com        |
 | https://www.truelancer.com |
 | https://gun.io             |
-| https://www.refrens.com    |
 
 [⬆ back to top](#table-of-contents)
 
@@ -115,7 +118,7 @@ Initially created by [Dhanashri](https://github.com/surpuredhanashri)
 [⬆ back to top](#table-of-contents)
 
 
-
+## Podcasts:
 | Website                                                                     |
 | --------------------------------------------------------------------------- |
 | [Syntax](https://syntax.fm/)                                                |
@@ -145,9 +148,10 @@ Initially created by [Dhanashri](https://github.com/surpuredhanashri)
 | [VS Code](https://code.visualstudio.com/)    |
 | [Sublime Text](https://www.sublimetext.com/) |
 | [Brackets](http://brackets.io/)              |
-| [emacs](https://www.gnu.org/software/emacs/) |
 | [Neovim](https://neovim.io/)                 |
 | [Fleet](https://www.jetbrains.com/fleet/)    |
+| [Atom](https://atom.io/)                     |
+| [IntelliJ](https://www.jetbrains.com/idea/)  |
 
 [⬆ back to top](#table-of-contents)
 
